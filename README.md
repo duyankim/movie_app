@@ -1,1 +1,1 @@
-### https://duyan-kim.github.io/movie_app/
+### https://duyankim.github.io/movie_app/
